@@ -1,0 +1,18 @@
+.user-activities {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.user-activities > div {
+    border: 1px solid;
+    margin: 5%;
+    padding: 10px;
+    width: 20%;
+    height: auto;
+    flex-grow: 1;
+}
+
+.user-activities > div > label {
+    font-weight: bolder;
+    font-size: 20px;
+}
