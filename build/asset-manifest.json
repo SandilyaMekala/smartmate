@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smartmate/static/css/main.6eb6fcee.css",
+    "main.js": "/smartmate/static/js/main.962f8b45.js",
+    "static/js/453.4253db55.chunk.js": "/smartmate/static/js/453.4253db55.chunk.js",
+    "index.html": "/smartmate/index.html",
+    "main.6eb6fcee.css.map": "/smartmate/static/css/main.6eb6fcee.css.map",
+    "main.962f8b45.js.map": "/smartmate/static/js/main.962f8b45.js.map",
+    "453.4253db55.chunk.js.map": "/smartmate/static/js/453.4253db55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb6fcee.css",
+    "static/js/main.962f8b45.js"
+  ]
+}
