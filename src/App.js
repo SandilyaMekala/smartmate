@@ -8,7 +8,7 @@ function App() {
   
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/smartmate">
         <Routes>
           <Route path="/" element={<Dashboard />}></Route>
           <Route path="/userProfile" element={<UserProfile />}></Route>
